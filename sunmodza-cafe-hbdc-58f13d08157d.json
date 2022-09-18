@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "sunmodza-cafe-hbdc",
+  "private_key_id": "58f13d08157d444bcf4e55dec31d4bd5316c872e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDB6fSkehEzYAxC\nrhkduM/Bk65E25DdEd5mKCaWEeAVMg2E7vMsvzF9Ks1ois8MaGv+gVsV6DBZi5TD\nPjleu+/Ip1dkNm1gA1UTujpngSsu23qxtzwU9nHinClaD6fddXcGPMWbuXE266eL\n/RVmTTXbfP75Z5ul+f9L5T8jtukbWFKYpqs/XlpiO3xGm6RNqZ5t51uMrW+SMjwO\nwqjrxXNDFIHH2G1IT6QNTTv/qwTW+IMPbzCKrXphxCXd1/IrkKtZfop4QJk1u7AJ\nE5eT6elrbTU1V+CwHb5nNy+4YxrlXaUp2E8ow6PybLNUjNzBh/YyENDSBYn/hydF\n2DcQtlmpAgMBAAECggEAEY4JjL5UQk9mrL6wHWW2wTKKa0dpVOoiNSNbYuiZXbHb\nUXaEYz+nzkoKsHUoi1oEtNSnF1Oe1Oxy+j3u2amv6n1jxvm6ax/CGvgYA3jJHQPX\nlrEc6lTpOHeksreKHd1deh4UUaW3Hx60W1L9FfbVclpdhtyfVaZNO2S0k5oifkwX\nO+wgzkVDJGrOXS+2ILUeta0ZFIhvPwhNDyEfmaOBZMxlhSsgnSfg697YLqEoKruP\nNRHKE/F1mJ637UyMUCMOkaFeVNPoPK66YqM1NVR2hM1wgF7ZUiXhT7MzLPYyZA8g\nAH+HMx2ITCAjsUPRAjnG1V84T2R+w8HatiSIPDgGAQKBgQDssA+zSusOS8qXAbRE\nGN8iDxcufXhNp9IwU97yZRrOg2xk2ZCDk1XHPj4hYPqqCSokYYUkBm9YqVUYjSFr\nue/ANhRoU2TP5bWkgthrqIP6JKR5FYJyN3RXVNypge//8nEXt95HAgBf9Ucn8zSx\nYZ3gr3HYyogNlfsoXzm0PMsewQKBgQDRvG7lNhOIbE8IkKBL85U4+zEODTNUbBld\nWTGFefny9rkkljrkNwEbr99sMXcmCcBOV5MDFB6nN+yMIMEoDG3t/+f0vkjG0+MM\ndTR9fXhSjLrI542POJ7l0SJZrS2e+OZADZcmBoraSjDmfg8xiwdsJV/xUJeVg4nn\ng7ZbGUpc6QKBgDkAIZfVOAyGVjDNuUMZFkuWhMeucdWJ0AXRfQS1MqJ/ZhBXkQUO\n636DT+Ur/NIMSPjf/3dwkUox5Yt3GZBfBA0vOPTy+HlU4czPsh0jRT1tq6p5cqPd\nFQifKFEuOMVT9sZ2gnJpWfvCDzPgz1TUpHfi6LED/YYAE69iV3w/k89BAoGAJQIG\n31MHZ08VMwGyBzTX49IO+dfCcucQIrSWVGMNg52dVaNciOBbxbLmzYR87a1SzYAO\nZMCsF/16M8+jxZlL3G8HUtwwo0TID26u8GWvUYGbg8+33smy4AJi+UfhgOeSWUMM\npJ0K6zGkJ0efDrLlgGOn5kC+PpeTQdKv3qs7v+ECgYEAkQTs/fle2hzITnVDWTr1\nIrhqkzmwcgaauNb0tDZVn9EWQwuInynTfZIL1Q0JFj/JDg1tEu0HNHmluXOvS5SD\nObbn5Z0TN7JlNoUYbiNacnEFGuogOUKIX5HjuzVdt66P8uJ5Dz0BO9w1O7HiwTL6\n5v6fs9Z7eP0ZN7OmubWhcWM=\n-----END PRIVATE KEY-----\n",
+  "client_email": "sunmodcafe@sunmodza-cafe-hbdc.iam.gserviceaccount.com",
+  "client_id": "111792091965497003195",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/sunmodcafe%40sunmodza-cafe-hbdc.iam.gserviceaccount.com"
+}
